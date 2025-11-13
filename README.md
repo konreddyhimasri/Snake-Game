@@ -116,13 +116,13 @@ The project provides hands-on experience in:
 
 You can include images like:
 
-* **Start Screen**
+##**Start Screen**
 <img width="973" height="748" alt="Image" src="https://github.com/user-attachments/assets/54acaac2-6e04-4ff8-b97e-7c56c2d27d87" />
 * 
-* **Gameplay**
+##**Gameplay**
 <img width="981" height="751" alt="Image" src="https://github.com/user-attachments/assets/f404d7b6-922c-4eaf-939b-a73422687eff" />
 * 
-* **Game Over Screen**
+##**Game Over Screen**
 <img width="982" height="749" alt="Image" src="https://github.com/user-attachments/assets/9afa7e3e-e0ec-44b3-ae5f-e6b7f815fd55" />
 * 
 
